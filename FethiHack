@@ -60,7 +60,7 @@ def tik():
 		print logo
 		print("\r\033[1;96m \x1b[1;93mwait \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
                 
-back 
+back = 0
 succes = []
 chekpoint = []
 oks = []

@@ -72,6 +72,12 @@ os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
 \033[1;91m=======================================
+ _____ _____ _____ _   _ ___
+|  ___| ____|_   _| | | |_ _|
+| |_  |  _|   | | | |_| || |
+|  _| | |___  | | |  _  || |
+|_|   |_____| |_| |_| |_|___|
+
 \033[1;96mAuthor  \033[1;93m: \033[1;92mFethi
 \033[1;96mYouTube \033[1;93m: \033[1;92mFethi Belhadj
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/fethi.belhadj.5220
@@ -89,10 +95,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+            os.system('xdg-open https://www.facebook.com/fethi.belhadj.5220')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+        os.system('xdg-open https://www.facebook.com/fethi.belhadj.5220')
 def login():
 	os.system('clear')
 	try:

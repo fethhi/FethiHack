@@ -58,7 +58,7 @@ def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print logo
-		print("\r\033[1;96m \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m \x1b[1;93mwait \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
                 print(pyfiglet.pyfiglet_format("FETHI"))
 back = 0
 succes = []
@@ -403,3 +403,4 @@ def pilih_super():
 	menu()
 if __name__ == '__main__':
 	login()
+de

@@ -1,2 +1,0 @@
-# FethiHack
-Hacking facebook
